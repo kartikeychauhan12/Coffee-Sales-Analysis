@@ -6,7 +6,7 @@ Key learnings from the Excel project:
 
 2.)Leveraged Pivot Tables and Pivot Charts to create interactive and insightful dashboards.                                                                         
 
-Insights generated:                                                                                                                                                 
+📊 Insights generated:                                                                                                                                                 
 
 1.)Overall, Excelsa generated the highest revenue for the company.                                                                                                  
 
