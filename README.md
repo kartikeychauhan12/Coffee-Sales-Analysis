@@ -16,12 +16,13 @@ Insights generated:
 
 4.)Among customers, the 0.5kg coffee size proved to be the most popular choice.
 
-5.)Best-Selling Coffee Type by Country:                                                                                                                                                                               
-In Ireland Liberica generated the highest revenue than other coffee types.                                                                                                                                                                               
+5.)Best-Selling Coffee Type by Country:                                                                                                                                                                              
+                                                                                                                                                                                                                     In Ireland Liberica generated the highest revenue than other coffee types.                                                                                                                                                                               
 In the United States, Arabica generated the highest revenue.                                                                                                                                                          
 In United Kingdom Excelsa generated the highest revenue.                                                                                                                                                             
 
-6.)Top Customers by Country:                                                                                                                                                                                          
+6.)Top Customers by Country:                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                             
  Alis Wilmore -United States                                                                                                                                                                                          
  Don flintoff - United Kingdom                                                                                                                                                                                        
  Brice Romera -Ireland
