@@ -1,6 +1,7 @@
 # Coffee-Sales-Analysis
 I would like to thank Mo Chen for providing us with an incredible project to work on.                                                                               
-Key learnings from the Excel project.                                                                                                                               
+
+Key learnings from the Excel project:                                                                                                                               
 
 1.)Utilized XLOOKUP , INDEX-MATCH function to efficiently join columns, enhancing data analysis capabilities.                                                       
 
